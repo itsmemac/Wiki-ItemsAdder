@@ -373,7 +373,7 @@ crops:
       billboard_textures_prefix: block/red_crop_stage_
 ```
 
-#### Auto genereate billboard based on custom models
+#### Auto generate billboard based on custom models
 
 ```yaml
 crops:
@@ -526,7 +526,7 @@ crops:
       items_id_prefix: blue_crop_stage_
 ```
 
-# Example pack
+# Example crops pack
 
 {% content-ref url="https://www.spigotmc.org/resources/itemsadder-crops.135776/" %}
 Guide
