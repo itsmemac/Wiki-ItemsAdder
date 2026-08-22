@@ -107,7 +107,7 @@ Get the item ingame using `/iaget my_furniture:ceiling_fan`.
 <figure><img src="../../.gitbook/assets/furniture-complex_002.webp" alt=""><figcaption></figcaption></figure>
 # Example complex furniture pack
 
-You can download an interesting advanced vehicles pack [here](https://www.spigotmc.org/resources/iaentities-animated-furniture-for-itemsadder.137775/)
+You can download an interesting complex furniture pack [here](https://www.spigotmc.org/resources/iaentities-animated-furniture-for-itemsadder.137775/)
 
 {% embed url="https://www.youtube.com/watch?v=x1Ak1muccAU" fullWidth="true" %}
 
