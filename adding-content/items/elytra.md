@@ -495,3 +495,8 @@ items:
 
 For the first two items, add `<normal_texture>_broken.png` to test automatic broken-texture detection. The third item demonstrates an explicit `broken_item_texture`.
 
+## Example Elytras pack
+
+{% content-ref url="https://www.spigotmc.org/resources/simplyelytras-8-custom-elytras.138297/" %}
+[Example pack](https://www.spigotmc.org/resources/simplyelytras-8-custom-elytras.138297/)
+{% endcontent-ref %}
