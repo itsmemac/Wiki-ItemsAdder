@@ -392,12 +392,12 @@ crops:
 crops:
   blue_berry_bush:
     models_by_textures:
-      parent: minecraft:block/crop_cross
+      parent: minecraft:block/cross
       textures_prefix: block/blue_berry_bush_stage_
       model_texture_key: cross
 ```
 
-You can use `crop_cross` as an alternative model, similar to vanilla `sweet_berries`.
+You can use `cross` as an alternative model, similar to vanilla `sweet_berries`.
 
 ### Custom crops models
 
