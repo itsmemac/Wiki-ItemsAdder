@@ -264,6 +264,18 @@ Show a different texture on the inventory slots compared to the in-game appearan
       hand_animation_on_swap: false
 ```
 
+### Oversized in GUI
+
+Render the item bigger than a normal slot in inventories and GUIs.
+
+```yaml
+  modern_texture:
+    name: Modern Model
+    graphics:
+      model: item/modern_model
+      oversized_in_gui: true
+```
+
 ## Experts configuration
 
 ### `item_model`
